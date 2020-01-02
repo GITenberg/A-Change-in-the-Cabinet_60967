@@ -1,5 +1,8 @@
 _repo: A-Change-in-the-Cabinet_60967
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60967-h/images/cover.jpg
 creator:
   author:
     agent_name: Belloc, Hilaire
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2437
     wikipedia: http://en.wikipedia.org/wiki/Hilaire_Belloc
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60967#A-Change-in-the-Cabinet
 gutenberg_issued: '2019-12-19'
 gutenberg_type: Text
 identifiers:
